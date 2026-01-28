@@ -1,43 +1,43 @@
 # Basic site info with SEO
 description: "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design."
-keywords: ["Hugo", "Blog", "Theme", "Technology", "Programming"]
-defaultAuthor: "Hugo Narrow"
+keywords: ["Christian", "Maurer", "Portfolio", "Projects", "Computer", "Science", "Autonomous", "Systems"]
+defaultAuthor: "Christian Maurer"
 language: "en-US"
-shortName: "Hugo Narrow"  # PWA
+shortName: "Christian Maurer"  # PWA
 images:
   - "/images/og-default.avif"
 
 # Favicon
 favicon:
-  svg: "/favicon.svg"  # SVG format favicon (recommended)
+  svg: "/favicon.png"  # SVG format favicon (recommended)
 
 # Author info
 author:
-  name: "Hugo Narrow"
-  title: "A Clean and Minimal Hugo Theme"
-  description: "Focused on content and user experience."
+  name: "Christian Maurer"
+  title: "My Profile and Portfolio Site"
+  description: "Focused on Machine Learning and Intelligent Systems."
   avatar: "/images/avatar.svg"
   social:
-    - name: "GitHub"
-      url: "https://github.com/username"
-      icon: "github"
-    - name: "Twitter"
-      url: "https://twitter.com/username"
-      icon: "twitter"
+    # - name: "GitHub"
+    #   url: "https://github.com/username"
+    #   icon: "github"
+    # - name: "Twitter"
+    #   url: "https://twitter.com/username"
+    #   icon: "twitter"
     - name: "Email"
-      url: "mailto:hello@example.com"
+      url: "mailto:christian.maurer.ai@gmail.com"
       icon: "email"
 
 # Header configuration (modularized)
 header:
   sticky: true  # Enable sticky navigation bar
   logo:
-    image: "/images/logo.svg"  # Logo path relative to static folder, leave empty to use site title first letter
+    image: "/images/logo.png"  # Logo path relative to static folder, leave empty to use site title first letter
     link: "/"  # Click to home page
   # UI Components Control (header controls)
-  showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
+  showThemeSwitch: false      # Set to false to hide theme style switcher (palette icon)
   showDarkModeSwitch: true   # Set to false to hide dark mode switcher (sun/moon icon)
-  showLanguageSwitch: true   # Set to false to hide language switcher
+  showLanguageSwitch: false   # Set to false to hide language switcher
   languageSwitchMode: "dropdown"  # Language switch mode: "dropdown" (show panel) or "cycle" (direct cycle)
 
 # Dock display mode
@@ -109,7 +109,7 @@ home:
   contentOrder:
     - author-section
     - page-content
-    - recent-posts
+    #- recent-posts
     - featured-projects.html
 
 
