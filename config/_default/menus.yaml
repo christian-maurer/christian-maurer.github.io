@@ -9,6 +9,11 @@ main:
     weight: 25
     params:
       icon: projects
+  - name: Publications
+    pageRef: publications.md
+    weight: 30
+    params:
+      icon: posts
   # - name: nav.categories
   #   pageRef: /categories
   #   weight: 30
