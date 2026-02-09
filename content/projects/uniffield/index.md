@@ -10,6 +10,9 @@ tags:
   - Machine Learning
   - Deep Learning
   - Computer Vision
+  - RGB-D Perception
+  - Uncertainty
+  - Geometric Reconstruction
   - Robotics
   
 categories:

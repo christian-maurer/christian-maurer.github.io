@@ -9,9 +9,10 @@ featured: true
 tags:
   - Machine Learning
   - Reinforcement Learning
-  - Human-AI
-  - Interactive AI
+  - Human-AI Interaction
   - Trustworthy AI
+  - Uncertainty
+  - Simulation
   
 categories:
   - projects
@@ -22,7 +23,7 @@ cover: "lunaa2.png"
 #paper: "https://example.com"
 # tech_stack:
 #   - Python
-project_members: "Christian Maurer supervised by Lisa Kempf and Dorothea Koert"
+project_members: "Christian Maurer, supervised by Dr. Lisa Kempf and Dr. Dorothea Koert"
 status: "completed"
 ---
 
