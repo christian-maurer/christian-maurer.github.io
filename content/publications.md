@@ -8,7 +8,7 @@ date: 2026-01-01T00:00:00+08:00
 ---
 
 ### Conference & Journal Papers
-- Maurer, C., Jauhri, S., Lueth, S, & Chalvatzaki, G. _UniFField: A Generalizable Unified Neural Feature Field for Visual, Semantic, and Spatial Uncertainties in Any Scene_. [Preprint]. https://arxiv.org/abs/2510.06754
+- Maurer, C., Jauhri, S., Lueth, S, & Chalvatzaki, G. _UniFField: A Generalizable Unified Neural Feature Field for Visual, Semantic, and Spatial Uncertainties in Any Scene_. (in press). IEEE International Conference on Robotics and Automation (ICRA) 2026. https://arxiv.org/abs/2510.06754
 
 - Kempf, L., Maurer, C., Turan-Schwiewager, C., & Koert, D. (2025). _Can I Trust You?---Handling Unreliable Human Action Advice in Interactive Reinforcement Learning_. ACM Transactions on Human-Robot Interaction. https://dl.acm.org/doi/full/10.1145/3736424
 

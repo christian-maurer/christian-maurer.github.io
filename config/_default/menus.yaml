@@ -31,9 +31,14 @@ main:
   #     icon: archive
   - name: About
     pageRef: /about
-    weight: 10
+    weight: 50
     params:
       icon: about
+  - name: Home
+    pageRef: /
+    weight: 1
+    params:
+      icon: home
 
 # footer menu
 # footer:
