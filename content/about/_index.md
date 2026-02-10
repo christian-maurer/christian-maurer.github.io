@@ -21,6 +21,6 @@ date: 2026-01-01T00:00:00+08:00
 
 ### About
 
-I am a Computer Scientist with a Master's degree in Autonomous Systems and a Bachelor's degree in Computer Science, completed at Technical University of Darmstadt. My academic background and interests lie in Machine Learning, Deep Learning, Human-AI Interaction, Computer Vision, and Autonomous Driving.
+I am a Computer Scientist with a Master's degree in Autonomous Systems and a Bachelor's degree in Computer Science, completed at Technical University of Darmstadt. My academic background and interests lie in Machine Learning, Deep Learning, Human-AI Interaction, Computer Vision, Robotics, and Autonomous Driving.
 
 Through my studies and projects, I have worked on developing and analyzing learning-based systems, combining theoretical foundations with practical implementation. I enjoy tackling complex problems, exploring new research ideas, and learning new technologies!

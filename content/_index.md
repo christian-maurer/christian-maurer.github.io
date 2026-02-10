@@ -1,11 +1,11 @@
 ---
 dismissible: true
-date: 2026-01-25
+date: 2026-02-01
 title: "Home"
 author:
   name: "Christian Maurer"
-  title: "Research Assistant, Master's Graduate in Autonomous Systems"
-  description: "I am a Computer Scientist with a Master's degree in Autonomous Systems and a Bachelor's degree in Computer Science, completed at Technical University of Darmstadt. My interests span Machine Learning, Deep Learning, Human-AI Interaction, Computer Vision, and Autonomous Driving."
+  title: "Research Assistant, Master's in Autonomous Systems"
+  description: "I am a Computer Scientist with a Master's degree in Autonomous Systems, completed at Technical University of Darmstadt. My interests include Machine Learning, Deep Learning, Human-AI Interaction, Computer Vision, Robotics, and Autonomous Driving."
   avatar: "/images/avatar.png"
   social:
     # - name: "GitHub"
@@ -22,6 +22,8 @@ author:
       icon: "linkedin"
 ---
 
-**Work in Progress!** 
+**Paper Accepted!** 
 
-More content will be available soon. Thank you for your patience.
+I am happy to announce that our paper has been accepted to the IEEE International Conference on Robotics & Automation (ICRA) 2026.
+
+Project website: https://sites.google.com/view/uniffield
