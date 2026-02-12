@@ -26,4 +26,4 @@ author:
 
 I am happy to announce that our paper has been accepted to the IEEE International Conference on Robotics & Automation (ICRA) 2026.
 
-Project website: https://sites.google.com/view/uniffield
+{{< button text="Project Website" url="https://sites.google.com/view/uniffield" icon="external-link" target="_blank" size=sm variant=outline />}}
